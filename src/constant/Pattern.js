@@ -1,0 +1,1 @@
+export const VALID_USERNAME = "^[a-zA-Z\\d]{8,16}$";
